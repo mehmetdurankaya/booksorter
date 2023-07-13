@@ -5,5 +5,3 @@
 #### Sayfa sayısına göre yapılmıştır.
 #### Printf metodu kullanılarak liste formatı kazandırılmıştır
 
-
-![kitaplar.png](kitaplar.png)
